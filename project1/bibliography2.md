@@ -1,0 +1,4 @@
+*[Hipsters on Networks: How a Small Group of Individuals Can Lead to an Anti-Establishment Majority](https://arxiv.org/pdf/1707.07187.pdf)
+Juul, Jonas S.; Porter, Mason A.; 22 July 2017*
+
+Juul and Porter study the effect of "anti-establishment nodes" on the adoption of a product within a network model. They show how the ratio of anti-establishment nodes to conformist nodes can influence which product ends up more popular. These results are also influenced by the delay in the "hipster's" knowledge of product distribution. They simulated the influence on a Facebook model network and found that even a small fraction of hipsters with a time delay can dramatically increase the adoption of the initially less popular product. They also propose using this model to examine election results. This project could be extended to examine how a single rogue element that has a chance of influencing others can change the network as a whole and alter product adaption.
